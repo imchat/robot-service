@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BotApi/BotApi.iml" filepath="$PROJECT_DIR$/../BotApi/BotApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BotApi/BotApi (1).iml" filepath="$PROJECT_DIR$/../BotApi/BotApi (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BotApi/BotApi (1) (BotServer).iml" filepath="$PROJECT_DIR$/../BotApi/BotApi (1) (BotServer).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BotServer.iml" filepath="$PROJECT_DIR$/BotServer.iml" />
+    </modules>
+  </component>
+</project>
