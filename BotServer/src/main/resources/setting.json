@@ -1,0 +1,29 @@
+{
+  "dailySignIn": [
+    {
+      "keyword": "签到",
+      "send": "{NickName}，签到成功！",
+      "onDuplicated": "{NickName}，你今日已完成签到，请明天再来！",
+      "redpack": 1,
+      "redpackName":"签到红包",
+      "redpackAmount": 10,
+      "redpackCoinType": "FORCE"
+    }
+  ],
+  "newUserWelcome": [
+    {
+      "send": "请领取新人入群红包，{NickName}",
+      "redpack": 0,
+      "redpackName":"入群红包",
+      "redpackAmount": 3,
+      "redpackCoinType": "FORCE"
+    }
+  ],
+  "timer": [
+    {
+      "time": "00:05:00",
+      "frequency": "daily",
+      "send": "@所有人 各位亲，每天回复\"签到\"可以领红包哦"
+    }
+  ]
+}
